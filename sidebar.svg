@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 328 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-472,0)">
+        <g transform="matrix(1,0,0,1.03188,108,-0.968121)">
+            <path d="M401,2C401,2 515.138,254.853 445,595L816,595L816,-1L401,2Z" style="fill:rgb(102,174,145);"/>
+        </g>
+        <g transform="matrix(0.971084,0,0,1.03188,132.595,-0.968121)">
+            <path d="M401,2C401,2 515.138,254.853 445,595L816,595L816,-1L401,2Z" style="fill:white;"/>
+            <path d="M401,2C401,2 515.138,254.853 445,595L816,595L816,-1L401,2ZM447.495,593.062L813.94,593.062L813.94,0.953L404.055,3.916C415.868,31.735 512.633,273.754 447.495,593.062Z" style="fill:rgb(204,227,218);"/>
+        </g>
+        <g transform="matrix(0.903614,0,0,1.03188,173.651,-5.96812)">
+            <path d="M401,2C401,2 515.138,254.853 445,595L816,595L816,-1L401,2Z" style="fill:rgb(210,234,225);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,96.5537,7.10168)">
+            <g transform="matrix(0.120316,-0.992736,0.992736,0.120316,-131.22,927.441)">
+                <text x="457.705px" y="537.762px" style="font-family:'Besley-it-Book', 'Besley*';font-size:36px;">T</text>
+            </g>
+            <g transform="matrix(0.0955927,-0.995421,0.995421,0.0955927,-92.7167,921.717)">
+                <text x="460.878px" y="511.882px" style="font-family:'Besley-it-Book', 'Besley*';font-size:36px;">H</text>
+            </g>
+            <g transform="matrix(0.0707545,-0.997494,0.997494,0.0707545,-47.6695,908.743)">
+                <text x="463.908px" y="479.957px" style="font-family:'Besley-it-Book', 'Besley*';font-size:36px;">E</text>
+            </g>
+            <g transform="matrix(0.0365744,-0.999331,0.999331,0.0365744,6.50137,893.013)">
+                <text x="466.398px" y="443.135px" style="font-family:'Besley-it-Book', 'Besley*';font-size:36px;">A</text>
+            </g>
+            <g transform="matrix(0.0103437,-0.999947,0.999947,0.0103437,52.7223,873.356)">
+                <text x="467.579px" y="410.043px" style="font-family:'Besley-it-Book', 'Besley*';font-size:36px;">�</text>
+            </g>
+            <g transform="matrix(-0.0140025,-0.999902,0.999902,-0.0140025,92.3036,855.363)">
+                <text x="467.886px" y="382.172px" style="font-family:'Besley-it-Book', 'Besley*';font-size:36px;">R</text>
+            </g>
+            <g transform="matrix(-0.0365468,-0.999332,0.999332,-0.0365468,127.817,837.47)">
+                <text x="467.61px" y="357.121px" style="font-family:'Besley-it-Book', 'Besley*';font-size:36px;">A</text>
+            </g>
+            <g transform="matrix(-0.0643196,-0.997929,0.997929,-0.0643196,173.039,810.292)">
+                <text x="466.393px" y="324.024px" style="font-family:'Besley-it-Book', 'Besley*';font-size:36px;">N</text>
+            </g>
+            <g transform="matrix(-0.100573,-0.99493,0.99493,-0.100573,229.715,771.314)">
+                <text x="463.495px" y="281.825px" style="font-family:'Besley-it-Book', 'Besley*';font-size:36px;">G</text>
+            </g>
+            <g transform="matrix(-0.125753,-0.992062,0.992062,-0.125753,269.719,738.632)">
+                <text x="460.316px" y="250.472px" style="font-family:'Besley-it-Book', 'Besley*';font-size:36px;">�</text>
+            </g>
+            <g transform="matrix(-0.148841,-0.988861,0.988861,-0.148841,304.491,707.658)">
+                <text x="456.803px" y="222.784px" style="font-family:'Besley-it-Book', 'Besley*';font-size:36px;">E</text>
+            </g>
+            <g transform="matrix(-0.1715,-0.985184,0.985184,-0.1715,336.534,676.983)">
+                <text x="452.925px" y="196.986px" style="font-family:'Besley-it-Book', 'Besley*';font-size:36px;">E</text>
+            </g>
+            <g transform="matrix(-0.197038,-0.980396,0.980396,-0.197038,368.943,644.729)">
+                <text x="448.494px" y="171.279px" style="font-family:'Besley-it-Book', 'Besley*';font-size:36px;">N</text>
+            </g>
+            <g transform="matrix(-0.237944,-0.971279,0.971279,-0.237944,418.626,588.06)">
+                <text x="440.006px" y="129.805px" style="font-family:'Besley-it-Book', 'Besley*';font-size:36px;">M</text>
+            </g>
+            <g transform="matrix(-0.272909,-0.96204,0.96204,-0.272909,459.118,532.903)">
+                <text x="430.938px" y="92.955px" style="font-family:'Besley-it-Book', 'Besley*';font-size:36px;">A</text>
+            </g>
+            <g transform="matrix(-0.304289,-0.95258,0.95258,-0.304289,492.006,481.522)">
+                <text x="421.841px" y="61.094px" style="font-family:'Besley-it-Book', 'Besley*';font-size:36px;">P</text>
+            </g>
+        </g>
+    </g>
+</svg>

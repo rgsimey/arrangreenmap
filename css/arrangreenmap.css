@@ -1,0 +1,55 @@
+/*!
+ * Start Bootstrap - 2 Col Portfolio (https://startbootstrap.com/template-overviews/2-col-portfolio)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-2-col-portfolio/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+
+h1 small {color:#90AA76;}
+
+
+
+.jumbotron {
+	width:100%;
+	background-color: #F3F3F3;
+	  -webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+.jumbotron a {color:#90AA76;}
+
+.home {
+	background-image: url("http://www.arrangreenmap.co.uk/images/header-hills-paper.svg");
+}
+
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.pagination {
+  margin-bottom: 30px;
+}
+
+#info {
+    display:none;
+}
+
+#woodside:hover + #info{
+    display:block;
+}
+
+#Links {opacity:.7; }
+#Links:hover {opacity:1; }
