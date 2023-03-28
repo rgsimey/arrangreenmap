@@ -1,29 +1,25 @@
 {
-    "title": "2 Col Portfolio",
-    "name": "startbootstrap-2-col-portfolio",
-    "version": "4.0.0",
-    "description": "A two column portfolio HTML template built with Bootstrap",
+    "title": "Arran Green Map",
+    "name": "arran-green-map",
+    "version": "1.0",
+    "description": "A map of Arran",
     "keywords": [
-        "css",
-        "sass",
-        "html",
+        "scotland",
+        "arran",
+        "map",
         "responsive",
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/2-col-portfolio",
+    "homepage": "https://arrangreenmap.co.uk/",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-2-col-portfolio/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/rgsimey/arrangreenmap/issues",
+        "email": "arrangreenmap@gmail.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-2-col-portfolio.git"
+        "url": "https://github.com/rgsimey/arrangreenmap.git"
     },
     "dependencies": {
         "bootstrap": "4.0.0",
@@ -32,5 +28,8 @@
     "devDependencies": {
         "browser-sync": "2.23.6",
         "gulp": "^3.9.1"
+    },
+    "scripts": {
+        "serve": "jekyll s"
     }
 }
