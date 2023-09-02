@@ -25,6 +25,8 @@ body p {font-family: 'Roboto',sans-serif;}
 
 text {font-family: 'Besley',Georgia,serif;}
 
+.map-list  {font-family: 'Besley',Georgia,serif; font-size: 0.8em;}
+
 .jumbotron {
 	width:100%;
 	background-color: #F3F3F3;
